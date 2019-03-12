@@ -11,6 +11,7 @@ stock_quantity INTEGER (10),
 primary key (item_id) 
 );
 
+
 INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Baseball Hat', 'Apparel', '20', '100');
 INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Blender', 'Appliance', '50', '35');
 INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Bike', 'Toys', '50', '35'); 
@@ -21,5 +22,7 @@ INSERT INTO products (product_name, department_name, price, stock_quantity) valu
 INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Bike Helmet', 'Toys', '50', '12'); 
 INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Cell Phone Case', 'Phones', '15', '42');
 INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Bar Soap', 'Household', '1', '1200'); 
+INSERT INTO products (product_name, department_name, price, stock_quantity) values ('Camping Tent', 'sports & outdoors', '30', '1200'); 
+INSERT INTO products (product_name, department_name, price, stock_quantity) values ('lipstick', 'beauty', '300', '40'); 
 
 SELECT * FROM products.stock_quantity;
