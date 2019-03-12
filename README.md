@@ -4,8 +4,7 @@ Overview
 Bamazon is  an Amazon-like storefront that function via  MySQL. The app will take in orders from customers and deplete stock from the store's inventory.
 
 
-Create a MySQL Database called bamazon.
-<code>MySql database  products table and define product names, departments, price, and stock quantity table></code>
+Create a MySQL Database called bamazon. Add a  products table and define product names, departments, price, and stock quantity.
 ![database](./images/database.png)
 
 
