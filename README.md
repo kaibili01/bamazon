@@ -23,7 +23,7 @@ Once the customer has placed the order, your application should check if your st
 
 If not, the app should log a phrase like Insufficient quantity!, and then prevent the order from going through.
 
-![item](./images/insufficient_order)
+![item](./images/insufficient_order.png)
 
 However, if your store does have enough of the product, you should fulfill the customer's order.
 
