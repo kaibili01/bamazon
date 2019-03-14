@@ -32,5 +32,5 @@ Once the update goes through, show the customer the total cost of their purchase
 ![item](./images/order_placed_sucess.png)
 
 
-video
-![video](https://youtu.be/8i1PK7M815U)
+
+[![video](https://youtu.be/8i1PK7M815U)](
